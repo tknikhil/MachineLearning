@@ -2,6 +2,9 @@
 """
 Created on Tue Sep 10 13:02:15 2019
 Data Processing by using seprate data
+
+Note --:> This Code os for R language there you can find EXACT CODE  
+
 @author: Nikhil
 """
 
